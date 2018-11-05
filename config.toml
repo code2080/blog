@@ -1,0 +1,7 @@
+baseURL = "https://code2080.com/"
+languageCode = "en-us"
+title = "Code Twenty Eighty"
+theme = "hugo-theme-minos"
+
+[params]
+    name = "Code Twenty Eighty"
